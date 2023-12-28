@@ -1,4 +1,4 @@
-# Siddhant Gautam .M. Singh ♾️:
+# Siddhant Gautam .M. Singh ♾️
 
 # Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Siddhantsingh1230&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
