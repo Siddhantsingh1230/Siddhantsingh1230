@@ -1,7 +1,4 @@
-![I'm a Developer](assets/siddhant.png)
-![I'm a Developer](assets/makingwords.gif)
-![I'm a Developer](assets/craft.png)
-![I'm a Developer](assets/Stack.png)
+[![](https://inertial-server.vercel.app/v1/svg/ghub/673de398b72af8967aba57b5)](http://localhost:5173/profile/673de398b72af8967aba57b5)
 
 [![Skills](https://skillicons.dev/icons?i=aws,gcp,react,ae,alpinejs,anaconda,babel,bootstrap,blender,c,cs,cpp,css,django,docker,express,figma,fastapi,firebase,flask,git,graphql,html,java,js,jenkins,jest,jquery,materialui,mongodb,mysql,netlify,nestjs,nextjs,nodejs,npm,notion,opencv,p5js,ps,php,postman,pr,prisma,redis,py,pytorch,redux,remix,sass,sklearn,supabase,tailwind,tensorflow,threejs,ts,vercel,vite,webpack&perline=15)](https://github.com/siddhantsingh1230)
 
