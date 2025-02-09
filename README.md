@@ -3,7 +3,7 @@
 ![I'm a Developer](assets/craft.png)
 ![I'm a Developer](assets/Stack.png)
 
-[![Skills](https://skillicons.dev/icons?i=aws,gcp,react,ae,alpinejs,anaconda,babel,bootstrap,blender,c,cs,cpp,css,django,docker,express,figma,fastapi,firebase,flask,git,graphql,html,java,js,jenkins,jest,jquery,materialui,mongodb,mysql,netlify,nestjs,nextjs,nodejs,npm,notion,opencv,p5js,ps,php,postman,pr,prisma,redis,py,pytorch,redux,remix,sass,sklearn,supabase,tailwind,tensorflow,threejs,ts,vercel,vite,webpack&perline=15)](https://github.com/siddhantsingh1230)
+[![Skills](https://skillicons.dev/icons?i=aws,gcp,react,ae,anaconda,babel,bootstrap,blender,c,cs,cpp,css,django,docker,express,figma,fastapi,firebase,flask,git,graphql,html,java,js,jenkins,jest,jquery,materialui,mongodb,mysql,netlify,nextjs,nodejs,npm,notion,opencv,p5js,ps,php,postman,pr,prisma,redis,py,pytorch,redux,remix,sass,sklearn,supabase,tailwind,tensorflow,threejs,ts,vercel,vite,webpack&perline=15)](https://github.com/siddhantsingh1230)
 
 [![](https://visitcount.itsvg.in/api?id=Siddhantsingh1230&icon=2&color=12)](https://github.com/siddhantsingh1230)
 ![I'm a Developer](assets/process.png)
