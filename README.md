@@ -13,3 +13,6 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/siddhantsingh)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@CultZeroOfficial) 
+
+
+[![Peerlist](https://github-readme-badge.peerlist.io/api/siddhant1230?style=social)](https://peerlist.io/siddhant1230)
